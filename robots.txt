@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodegawasues.github.io/sitemap.xml
